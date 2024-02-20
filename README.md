@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Varnit Saxena, a Passionate computer science student 👨‍💻 with expertise in C++, Python, and web development, driven by a curiosity to explore innovative technologies and contribute to impactful projects.🚀</div>  
+### <div align="center">Hi, I'm Varnit Saxena, a Passionate computer science student 👨‍💻 with expertise in C++, Python, and web development, driven by a curiosity to explore innovative technologies and contribute to impactful projects.🚀</div>  
   
 
 - 🔭 I’m currently navigating the into the depths of machine learning and python, honing skills and crafting innovative solutions.  
@@ -72,4 +72,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
